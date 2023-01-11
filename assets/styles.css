@@ -1,0 +1,55 @@
+.container {
+    width: 100%;
+    height: auto;
+    color: white;
+    background-color: blue;
+    margin: 20px 20px 10px 10px;
+}
+
+.box {
+    position: absolute;
+    margin-left: 260px;
+    width: 70%;
+    height: 600px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 5px 10px 10px 13px grey;
+    border-radius: 104px
+}
+
+.box h1 {
+    font-size: 30px;
+    text-align: left;
+    margin-top: 90px;
+    margin-left: 100px
+}
+
+.password {
+    margin-left: 160px;
+    margin-top: 10px;
+    width: 1000px;
+    height: 300px;
+    border-style: dashed;
+    border-color: gray
+}
+
+button {
+    margin-top: 45px;
+    margin-left: 630px;
+}
+
+.line-1 {
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 2px;
+    background: black;
+}
+
+.line-2 {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 2px;
+    background: black
+}
